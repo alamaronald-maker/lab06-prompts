@@ -12,6 +12,7 @@ Este repositorio contiene las actividades desarrolladas en el Laboratorio 06, do
 ## Contenido del proyecto
 
 - `prompts/BITACORA.md`: bitácora con el desarrollo de los ejercicios, resultados, análisis y reflexiones.
+- `prompts/TAREA.md`: desarrollo de la tarea individual sobre la creación y mejora de un prompt profesional.
 - `simulador/`: archivos del simulador de temperatura desarrollado en Java.
 
 ## Ejercicios desarrollados
@@ -27,6 +28,12 @@ Este repositorio contiene las actividades desarrolladas en el Laboratorio 06, do
 Consulta el desarrollo completo de las actividades:
 
 [📘 Bitácora de Ingeniería de Prompts](prompts/BITACORA.md)
+
+## Tarea individual
+
+Consulta el desarrollo de las tres versiones del prompt profesional, sus componentes y la evaluación del resultado:
+
+[📝 Tarea: Mi prompt profesional](prompts/TAREA.md)
 
 ## Tecnologías y herramientas
 
